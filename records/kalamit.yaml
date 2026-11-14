@@ -1,0 +1,4 @@
+subdomain: kalamit
+type: CNAME
+target: alekseiwasilew2282003-netizen.github.io
+repository: https://github.com/alekseiwasilew2282003-netizen/my-first-page
